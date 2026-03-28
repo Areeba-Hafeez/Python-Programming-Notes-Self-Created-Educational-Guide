@@ -38,5 +38,4 @@ This is a collection of my self-created Python notes. It covers key Python conce
 
 ---
 
-## License
-This is my personal creation. Feel free to use it for personal learning. Redistribution or commercial use is not allowed without permission.
+
